@@ -1,2 +1,2 @@
 # MOOC.fi-OOP-w-Java
-Java review and problems
+Java review and problem sets.
